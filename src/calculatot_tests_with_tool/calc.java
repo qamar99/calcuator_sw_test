@@ -1,5 +1,6 @@
 package calculatot_tests_with_tool;
 
+
 public class calc {
 	
 		public int add(int a, int b )	
